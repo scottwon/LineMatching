@@ -1,0 +1,4 @@
+/home/scott/gitcode/Line/LineMatching/build/CMakeFiles/edit_cache.dir
+/home/scott/gitcode/Line/LineMatching/build/CMakeFiles/rebuild_cache.dir
+/home/scott/gitcode/Line/LineMatching/build/CMakeFiles/LineMatchingLib.dir
+/home/scott/gitcode/Line/LineMatching/build/CMakeFiles/lineMatching.dir
